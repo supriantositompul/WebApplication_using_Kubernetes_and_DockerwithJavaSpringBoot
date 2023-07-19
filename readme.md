@@ -1,4 +1,4 @@
-# Web Application using Spring Boot and H2 In memory database
+# Web Application using Kubernetes & Docker with Java Spring Boot and H2 in memory database
 
 Runs on default port of Spring Boot - 8080 
 
