@@ -1,7 +1,5 @@
 # Todo Web Application using Spring Boot and H2 In memory database
 
-Run com.in28minutes.springboot.web.SpringBootFirstWebApplication as a Java Application.
-
 Runs on default port of Spring Boot - 8080 
 
 ## Can be run as a Jar or a WAR
